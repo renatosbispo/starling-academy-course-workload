@@ -1,5 +1,6 @@
 # starling-academy-course-workload
-Greasy Fork script for [Starling Academy of Music](https://starlingacademy.com.br) that adds the total duration of a course's classes to the course header.
+
+Greasy Fork script for the [Starling Academy of Music](https://starlingacademy.com.br)'s platform that adds the total duration of a course's classes to the course header.
 
 ## Example
 
