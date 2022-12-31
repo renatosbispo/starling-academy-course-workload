@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Add the total duration of a course's classes to the course header.
 // @author       Renato Bispo
-// @match https://starlingacademy.com.br/aula/*
+// @match        https://starlingacademy.com.br/aula/*
 // @icon         https://starlingacademy.com.br/wp-content/uploads/2017/03/cropped-starling_reverse-192x192.png
 // @grant        none
 // ==/UserScript==
