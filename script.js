@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Starling Academy Course Workload
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.4
 // @description  Add the total duration of a course's classes to the course header.
 // @author       Renato Bispo
 // @match        https://starlingacademy.com.br/aula/*
