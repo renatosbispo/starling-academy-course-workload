@@ -2,7 +2,7 @@
 // @name         Starling Academy Course Workload
 // @namespace    https://github.com/renatosbispo
 // @version      1.0
-// @description  Add the total duration of a course's classes to the course header.
+// @description  Greasy Fork script for Starling Academy of Music that adds the total duration of a course's classes to the course header.
 // @author       Renato Bispo
 // @license      MIT
 // @homepage     https://github.com/renatosbispo/starling-academy-course-workload
