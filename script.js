@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Starling Academy Course Workload
 // @namespace    https://github.com/renatosbispo
-// @version      0.5
+// @version      1.0
 // @description  Add the total duration of a course's classes to the course header.
 // @author       Renato Bispo
 // @license      MIT
