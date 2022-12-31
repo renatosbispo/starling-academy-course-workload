@@ -131,7 +131,7 @@ class CourseWorkloadManager {
     courseWorkloadManager.addCourseWorkloadToPage();
   } catch (error) {
     alert(
-      'An error ocurred during the execution of the script "Starling Academy Course Workload". Contact the developer for support: renatosilvabispo@outlook.com'
+      'An error ocurred during the execution of the script "Starling Academy Course Workload". Contact the developer for support: renatosilvabispo@outlook.com.'
     );
 
     console.error(error);
