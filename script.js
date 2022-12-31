@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         Starling Academy Course Workload
-// @namespace    http://tampermonkey.net/
-// @version      0.4
+// @namespace    https://github.com/renatosbispo
+// @version      0.5
 // @description  Add the total duration of a course's classes to the course header.
 // @author       Renato Bispo
+// @license      MIT
+// @homepage     https://github.com/renatosbispo/starling-academy-course-workload
+// @supportURL   https://github.com/renatosbispo/starling-academy-course-workload/issues
 // @match        https://starlingacademy.com.br/aula/*
 // @icon         https://starlingacademy.com.br/wp-content/uploads/2017/03/cropped-starling_reverse-192x192.png
 // @grant        none
